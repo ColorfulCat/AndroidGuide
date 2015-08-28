@@ -1,11 +1,11 @@
-## AndroidGuide
+## AndroidCat
 ##### Android开发相关的网址导航 (*排名顺序不分先后*)
 
 希望有其它好资源的小伙伴帮忙一起分享一下~ ~
 
 ---
 ### 1. 资源文档
-- [AndroidDevTools](http://www.androiddevtools.cn/)<!--  : 免科学上网的资源下载网站。 -->
+- [AndroidDevTools](http://www.androiddevtools.cn/) 
 - [Android官方文档](http://developer.android.com/intl/zh-cn/develop/index.html)
 - [AndroidAPI中文翻译](http://www.cnblogs.com/over140/category/277077.html)
 - [Android Developers Blog](http://android-developers.blogspot.com/)
