@@ -71,6 +71,7 @@
 - [邓凡平](http://www.cnblogs.com/innost/)
 - [Race604](http://www.race604.com/)
 - [stormzhang](http://stormzhang.com/)
+- [阮一峰](http://www.ruanyifeng.com/blog/)
 
 ---
 ### 6. 开发框架
@@ -117,6 +118,8 @@
  
 ---
 认为这些资源对您有用的话，麻烦右上角给个star哦~ 
+
 以上内容会持续更新，如果各位有相关的链接希望多多提供哈~ 
+
 【email: fjytlibin@qq.com】
  
