@@ -1,7 +1,7 @@
 ## AndroidCat
 ##### Android开发相关的网址导航 (*排名顺序不分先后*)
 
-希望有其它好资源的小伙伴帮忙一起分享一下~ ~
+希望有其它好资源的小伙伴帮忙一起分享一下~ (喜欢的话请右上角点个star哈~)
 
 ---
 ### 1. 资源文档
@@ -54,6 +54,8 @@
 - [Code4App](http://a.code4app.com/category)
 - [Square Open Source](http://square.github.io/#android)
 - [腾讯开源](http://code.tencent.com/apt.html)
+- [android-open-project](https://github.com/Trinea/android-open-project)
+- [Android Arsenal](https://android-arsenal.com/free)
 
 ---
 ### 5. 大神博客
@@ -72,19 +74,33 @@
 - [邓凡平](http://www.cnblogs.com/innost/)
 - [Race604](http://www.race604.com/)
 - [stormzhang](http://stormzhang.com/)
+- [徐宜生](http://blog.csdn.net/eclipsexys)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 
 ---
 ### 6. 开发框架
-- [xUtils](https://github.com/wyouflf/xUtils)
-- [Afinal](https://github.com/yangfuhai/afinal)
-- [Apkplug](http://www.apkplug.com/)
-- [ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
-- [KJFrameForAndroid](http://git.oschina.net/kymjs/KJFrameForAndroid)
-- [Cordova](http://cordova.apache.org/)
-- [HBuilder](http://www.dcloud.io/)
-- [AppCan](http://www.appcan.cn/)
-- [APICloud](http://www.apicloud.com/)
+- [xUtils（快速）](https://github.com/wyouflf/xUtils)
+- [Afinal（快速）](https://github.com/yangfuhai/afinal)
+- [Apkplug（模块化）](http://www.apkplug.com/)
+- [ThinkAndroid（快速）](https://github.com/white-cat/ThinkAndroid)
+- [KJFrameForAndroid（快速）](http://git.oschina.net/kymjs/KJFrameForAndroid)
+- [LoonAndroid(快速)](https://github.com/gdpancheng/LoonAndroid)
+- [androidannotations（快速）](https://github.com/excilys/androidannotations/wiki)
+- [Cordova（H5跨平台）](http://cordova.apache.org/)
+- [HBuilder（H5跨平台）](http://www.dcloud.io/)
+- [AppCan（H5跨平台）](http://www.appcan.cn/)
+- [APICloud（H5模块化跨平台）](http://www.apicloud.com/)
+- [CJFrameForAndroid（插件化）](https://github.com/kymjs/CJFrameForAndroid)
+- [Universal-Image-Loader（图片）](https://github.com/nostra13/Android-Universal-Image-Loader)
+- [Fresco（图片）](http://www.fresco-cn.org/)
+- [okhttp（网络请求）](http://square.github.io/okhttp/)
+- [Volley（网络请求）](http://blog.csdn.net/guolin_blog/article/details/17482095)
+- [Netroid（网络请求）](http://www.open-open.com/lib/view/open1402825446810.html)
+- [android-async-http（网络请求）](https://github.com/loopj/android-async-http)
+- [greenDao（数据库）](http://greendao-orm.com/)
+- [Lite Orm（数据库）](https://github.com/litesuits/android-lite-orm)
+- [ActiveAndroid（数据库）](https://github.com/pardom/ActiveAndroid)
+
 
 ---
 ### 7. 技术资讯
@@ -101,7 +117,7 @@
 ---
 ### 8. 开发服务
 - [友盟SDK](http://www.umeng.com/)
-- [DevStore](http://www.devstore.cn/)
+- [DevStore开发商店](http://www.devstore.cn/)
 - [ShareSDK](http://www.mob.com/#/index)
 - [LeanCloud云服务](https://leancloud.cn/)
 - [Bmob后端云服务](http://www.bmob.cn/)
