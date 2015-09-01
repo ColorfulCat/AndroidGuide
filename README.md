@@ -72,6 +72,7 @@
 - [邓凡平](http://www.cnblogs.com/innost/)
 - [Race604](http://www.race604.com/)
 - [stormzhang](http://stormzhang.com/)
+- [徐宜生](http://blog.csdn.net/eclipsexys)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 
 ---
