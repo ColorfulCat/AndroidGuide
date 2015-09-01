@@ -114,7 +114,7 @@
 ---
 ### 8. 开发服务
 - [友盟SDK](http://www.umeng.com/)
-- [DevStore](http://www.devstore.cn/)
+- [DevStore开发商店](http://www.devstore.cn/)
 - [ShareSDK](http://www.mob.com/#/index)
 - [LeanCloud云服务](https://leancloud.cn/)
 - [Bmob后端云服务](http://www.bmob.cn/)
