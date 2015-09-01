@@ -53,6 +53,7 @@
 - [代码家](http://blog.daimajia.com/android-library-collection/)
 - [Code4App](http://a.code4app.com/category)
 - [Square Open Source](http://square.github.io/#android)
+- [腾讯开源](http://code.tencent.com/apt.html)
 
 ---
 ### 5. 大神博客
