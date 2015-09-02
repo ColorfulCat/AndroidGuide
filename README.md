@@ -11,6 +11,7 @@
 - [Android Developers Blog](http://android-developers.blogspot.com/)
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/)
 - [CodePath Android Cliffnotes](http://guides.codepath.com/android)
+- [codota](http://www.codota.com/)
 - [Careercup面试题大全](http://www.careercup.com/)
 
 ---
@@ -43,6 +44,8 @@
 - [麦子学院](http://www.maiziedu.com/course/android/)
 - [Android学习网](http://android-study.com/)
 - [爱编程](http://www.w2bc.com/)
+- [Mars的Android开发视频教程](http://mars.apkbus.com/)
+- [老罗的Android开发视频教程](http://luo.apkbus.com/)
 
 ---
 ### 4. 开源代码
@@ -56,6 +59,8 @@
 - [腾讯开源](http://code.tencent.com/index.html)
 - [android-open-project](https://github.com/Trinea/android-open-project)
 - [Android Arsenal](https://android-arsenal.com/free)
+- [APKBUS源码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all&fid=388)
+
 
 ---
 ### 5. 大神博客
@@ -76,6 +81,7 @@
 - [stormzhang](http://stormzhang.com/)
 - [徐宜生](http://blog.csdn.net/eclipsexys)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
+- [DK](http://dk-exp.com/archives/page/2/)
 
 ---
 ### 6. 开发框架
@@ -86,11 +92,13 @@
 - [KJFrameForAndroid（快速）](http://git.oschina.net/kymjs/KJFrameForAndroid)
 - [LoonAndroid(快速)](https://github.com/gdpancheng/LoonAndroid)
 - [androidannotations（快速）](https://github.com/excilys/androidannotations/wiki)
+- [AndroidFine（快速）](https://github.com/tianshaojie/AndroidFine)
 - [Cordova（H5跨平台）](http://cordova.apache.org/)
 - [HBuilder（H5跨平台）](http://www.dcloud.io/)
 - [AppCan（H5跨平台）](http://www.appcan.cn/)
 - [APICloud（H5模块化跨平台）](http://www.apicloud.com/)
 - [CJFrameForAndroid（插件化）](https://github.com/kymjs/CJFrameForAndroid)
+- [DroidPlugin（插件化）](https://github.com/Qihoo360/DroidPlugin)
 - [Universal-Image-Loader（图片）](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Fresco（图片）](http://www.fresco-cn.org/)
 - [okhttp（网络请求）](http://square.github.io/okhttp/)
@@ -132,6 +140,14 @@
 - [表情大全开发者平台](http://www.stickersdk.com/)
 - [亲加通讯云](http://www.gotye.com.cn/)
 - [容联云通讯](http://www.yuntongxun.com/)
+- [爱开发](http://www.akaifa.com/)
+- [爱加密](http://www.ijiami.cn/ )
+- [极光推送](https://www.jpush.cn/)
+- [小米消息推送](http://dev.xiaomi.com/doc/?page_id=1670)
+- [友盟推送](http://www.umeng.com/push)
+- [个推推送](http://www.igetui.com/)
+- [有推推送](http://dev.10086.cn/aoi/index.jsp)
+- [百度云推送](http://developer.baidu.com/cloud/push)
  
 ---
 认为这些资源对您有用的话，麻烦右上角给个star哦~ 
