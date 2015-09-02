@@ -148,6 +148,8 @@
 - [个推推送](http://www.igetui.com/)
 - [有推推送](http://dev.10086.cn/aoi/index.jsp)
 - [百度云推送](http://developer.baidu.com/cloud/push)
+- [聚合数据](http://www.juhe.cn/)
+- [云测](http://crash.testin.cn/zh/)
  
 ---
 认为这些资源对您有用的话，麻烦右上角给个star哦~ 
