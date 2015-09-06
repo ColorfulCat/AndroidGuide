@@ -26,7 +26,7 @@
 - [V2EX](http://www.v2ex.com/go/android)
 - [51CTO技术论坛](http://bbs.51cto.com/forum-291-1.html)
 - [干货集中营](http://gank.io/)
-- [掘金](http://gold.xitu.io/#/entries/browse/android)
+- [掘金](http://gold.xitu.io/#/tag/Android)
 - [SegmentFault](http://segmentfault.com/)
 
 ---
