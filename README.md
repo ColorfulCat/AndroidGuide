@@ -158,3 +158,24 @@
 
 【email: fjytlibin@qq.com】
  
+
+
+////note
+
+http://jndroid.com/
+
+http://android.jobbole.com/
+
+https://github.com/wasabeef/awesome-android-ui
+
+https://github.com/Juude/droidReverse
+
+
+http://androidniceties.tumblr.com/
+
+http://blog.csdn.net/yzzst
+
+
+https://www.android-libs.com/
+
+去掉阿里技术团队博客
