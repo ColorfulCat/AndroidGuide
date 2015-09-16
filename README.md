@@ -1,7 +1,16 @@
 ## AndroidCat
 ##### Android开发相关的网址导航 (*排名顺序不分先后*)
 
-希望有其它好资源的小伙伴帮忙一起分享一下~ (喜欢的话请右上角点个star哈~)
+希望有其它好资源的小伙伴帮忙一起分享一下~ (喜欢的话就fork,顺便请右上角点个star哈~)
+
+1. [资源文档](https://github.com/ColorfulCat/AndroidGuide#1-资源文档)
+2. [技术社区](https://github.com/ColorfulCat/AndroidGuide#2-技术社区)
+3. [技术教程](https://github.com/ColorfulCat/AndroidGuide#3-技术教程)
+4. [开源代码](https://github.com/ColorfulCat/AndroidGuide#4-开源代码)
+5. [大神博客](https://github.com/ColorfulCat/AndroidGuide#5-大神博客)
+6. [开发框架](https://github.com/ColorfulCat/AndroidGuide#6-开发框架)
+7. [技术资讯](https://github.com/ColorfulCat/AndroidGuide#7-技术资讯)
+8. [开发服务](https://github.com/ColorfulCat/AndroidGuide#8-开发服务)
 
 ---
 ### 1. 资源文档
@@ -13,6 +22,10 @@
 - [CodePath Android Cliffnotes](http://guides.codepath.com/android)
 - [codota](http://www.codota.com/)
 - [Careercup面试题大全](http://www.careercup.com/)
+- [eoe WIKI百科](http://wiki.eoeandroid.com/)
+- [Android Design设计指南中文版](http://adchs.github.io)
+- [Material Design 中文版](http://design.1sters.com)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 2. 技术社区
@@ -28,13 +41,13 @@
 - [干货集中营](http://gank.io/)
 - [掘金](http://gold.xitu.io/#/tag/Android)
 - [SegmentFault](http://segmentfault.com/)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 3. 技术教程
 - [codeKK](http://codekk.com/open-source-project-analysis)
 - [开发技术前线](http://www.devtf.cn/?cat=2)
 - [美团技术团队](http://tech.meituan.com/)
-- [阿里核心系统团队博客](http://csrd.aliapp.com/)
 - [Facebook技术](https://code.facebook.com/)
 - [OPEN开发经验库](http://www.open-open.com/lib/list/177)
 - [AndroidWeekly](http://www.androidweekly.cn/)
@@ -44,8 +57,12 @@
 - [麦子学院](http://www.maiziedu.com/course/android/)
 - [Android学习网](http://android-study.com/)
 - [爱编程](http://www.w2bc.com/)
+- [51CTO](http://edu.51cto.com)
+- [牛客网](http://www.nowcoder.com)
 - [Mars的Android开发视频教程](http://mars.apkbus.com/)
 - [老罗的Android开发视频教程](http://luo.apkbus.com/)
+- [如何自学Android编程-知乎](http://www.zhihu.com/question/26417244)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 4. 开源代码
@@ -60,10 +77,18 @@
 - [android-open-project](https://github.com/Trinea/android-open-project)
 - [Android Arsenal](https://android-arsenal.com/free)
 - [APKBUS源码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all&fid=388)
-
+- [TaoCode](http://code.taobao.org/)
+- [appance](http://www.appance.com/category/android/)
+- [AndroidElementals](https://github.com/cesards/AndroidElementals)
+- [Android Libraries and Resources](http://alamkanak.github.io/android-libraries-and-resources/)
+- [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+- [awesome-android](https://github.com/snowdream/awesome-android)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 5. 大神博客
+- [android-dev-cn国内博主](https://github.com/android-cn/android-dev-cn)
+- [android-dev-com国外博主](https://github.com/android-cn/android-dev-com)
 - [Trinea](http://www.trinea.cn/)
 - [张鸿洋](http://blog.csdn.net/lmj623565791)
 - [任玉刚](http://blog.csdn.net/singwhatiwanna/)
@@ -82,6 +107,13 @@
 - [徐宜生](http://blog.csdn.net/eclipsexys)
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [DK](http://dk-exp.com/archives/page/2/)
+- [脉脉不得语](http://www.inferjay.com)
+- [技术小黑屋](http://droidyue.com)
+- [Android Cool Posts](http://greenrobot.me)
+- [zmywly8866](http://zmywly8866.github.io)
+- [bongizmo](http://www.bongizmo.com/blog/)
+- [Cyril Mottier](http://cyrilmottier.com)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 6. 开发框架
@@ -108,7 +140,7 @@
 - [greenDao（数据库）](http://greendao-orm.com/)
 - [Lite Orm（数据库）](https://github.com/litesuits/android-lite-orm)
 - [ActiveAndroid（数据库）](https://github.com/pardom/ActiveAndroid)
-
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 7. 技术资讯
@@ -121,6 +153,7 @@
 - [前端里](http://www.yyyweb.com/mobile)
 - [好东西论坛](http://forum.memect.com/)
 - [DEMO8](http://www.demo8.com/)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
 ### 8. 开发服务
@@ -150,6 +183,7 @@
 - [百度云推送](http://developer.baidu.com/cloud/push)
 - [聚合数据](http://www.juhe.cn/)
 - [云测](http://crash.testin.cn/zh/)
+=========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
  
 ---
 认为这些资源对您有用的话，麻烦右上角给个star哦~ 
