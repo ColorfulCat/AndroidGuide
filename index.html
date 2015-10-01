@@ -1,1 +1,577 @@
-My Page
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+		<link rel="icon" href="cat.png" />
+		<link rel="shortcut icon" href="cat.png" />
+		<meta name="HandheldFriendly" content="true">
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="full-screen" content="yes" />
+		<meta name="screen-orientation" content="portrait" />
+		<meta name="x5-fullscreen" content="true" />
+		<meta name="format-detection" content="email=no" />
+		<meta name="format-detection" content="telephone=no" />
+		<link rel="apple-touch-icon-precomposed" href="cat.png">
+		<meta name="description" content="Android书签">
+		<meta name="author" content="DevisLee">
+
+		<title>AndroidCat</title>
+
+		<!-- Bootstrap core CSS -->
+		<link href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Bootstrap theme -->
+		<link href="../../dist/css/bootstrap-theme.min.css" rel="stylesheet">
+		<!-- Custom styles for this template -->
+		<link href="theme.css" rel="stylesheet">
+        
+        <link rel="stylesheet" href="./css/forkme.css">
+		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+		<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	</head>
+
+	<body role="document">
+		<!-- Fixed navbar -->
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" 
+						data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">AndroidCat</a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="#">首页</a></li>
+						<li><a href="#about" data-toggle="modal" 
+								data-target="#modal0">关于</a></li>
+						<!--<li><a href="#collection">收藏</a></li>
+						
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" 
+								aria-haspopup="true" aria-expanded="false">菜单  <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">Menu1</a></li>
+								<li><a href="#">Menu2</a></li>
+								<li role="separator" class="divider"></li>
+								<li class="dropdown-header">SubMenu1</li>
+								<li><a href="#">SubMenu2</a></li>
+							</ul>
+						</li>-->
+						
+					</ul>
+				</div>
+				<!--/.nav-collapse -->
+			</div>
+		</nav>
+		<div class="alert alert-success" role="alert"> </div>
+
+		<div class="jumbotron" style="background-image: url(android_bg.jpg); background-size: cover;">
+			<div class="container" >
+				<h1 style="color: #3498DB;">AndroidCat</h1>
+				<div class="alert alert-warning alert-dismissible fade in" role="alert">
+      			<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      				<span style="font-size: 18px;">Android书签网：昂~ 这个网站是为了收集和整理Android开发者们在工作和学习过程中可能会需要用到的一些网站和博客链接，希望能起到一些帮助~ 
+					PS：如果有好的资源也请多多提供分享一下哈~（可以在上方‘关于’里面留言哦~） 
+					</span>
+    				</div>
+			</div> 
+		</div>
+		<div class="container theme-showcase" role="main">
+			<div class="row"> 
+				
+				<!--资源文档-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white" data-toggle="tooltip" data-placement="top" title="一些Android开发的API查询文档">资源文档</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal1">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						<a href="http://www.androiddevtools.cn/" target="_blank" class="list-group-item" >AndroidDevTools</a>
+						<a href="http://developer.android.com/intl/zh-cn/develop/index.html" target="_blank" class="list-group-item" >Android官方文档</a>
+						<a href="http://www.cnblogs.com/over140/category/277077.html" target="_blank" class="list-group-item" >AndroidAPI中文翻译</a>
+					</ul>
+				</div>
+				
+				<!--技术社区-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="开发者社区，可以和同行们互相探讨技术难点">技术社区</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal2">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						
+						<a href="http://www.eoeandroid.com/" target="_blank" class="list-group-item" >eoe Android社区</a>
+						<a href="http://www.apkbus.com/" target="_blank" class="list-group-item" >APKBUS安卓巴士</a>
+						<a href="http://www.oschina.net/android/" target="_blank" class="list-group-item" >开源中国社区</a>
+					</ul>
+				</div>
+				<!--技术教程-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="大牛们写的进阶技术教程哦">技术教程</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal3">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						<a href="http://codekk.com/open-source-project-analysis" target="_blank" class="list-group-item" >codeKK</a>
+						<a href="http://www.devtf.cn/?cat=2" target="_blank" class="list-group-item" >开发技术前线</a>
+                        <a href="http://tech.meituan.com/" target="_blank" class="list-group-item" >美团技术团队</a>
+					</ul>
+				</div>
+				<!--开源代码-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="这个世界少不了开源代码！">开源代码</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal4">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						<a href="http://www.23code.com/" target="_blank" class="list-group-item" >23CODE</a>
+						<a href="http://www.jcodecraeer.com/" target="_blank" class="list-group-item" >泡在网上的日子</a>
+						<a href="http://blog.csdn.net/shulianghan/article/details/18046021" target="_blank" class="list-group-item" >GitHub优秀开源项目</a>
+					</ul>
+				</div>
+				
+				<!--大神博客-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="大神们的博客，各种干货，各种轮子">大神博客</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal5">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						<a href="http://www.trinea.cn/" target="_blank" class="list-group-item" >Trinea</a>
+						<a href="http://blog.csdn.net/lmj623565791" target="_blank" class="list-group-item" >张鸿洋</a>
+						<a href="http://blog.csdn.net/singwhatiwanna/" target="_blank" class="list-group-item" >任玉刚</a>
+					</ul>
+				</div>
+				
+				<!--开发框架-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="用框架开发，可以省去很多开发工作">开发框架</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal6">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						<a href="https://github.com/wyouflf/xUtils" target="_blank" class="list-group-item" >xUtils（快速）</a>
+						<a href="https://github.com/yangfuhai/afinal" target="_blank" class="list-group-item" >Afinal（快速）</a>
+						<a href="http://www.apkplug.com/" target="_blank" class="list-group-item" >Apkplug（模块化）</a>
+					</ul>
+				</div>
+				
+				<!--技术资讯-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="看看移动互联网的最新资讯，扩展视野">技术资讯</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal7">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						<a href="http://www.cyzone.cn/" target="_blank" class="list-group-item" >创业邦</a>
+							<a href="http://36kr.com/" target="_blank" class="list-group-item" >36氪</a>
+							<a href="http://www.pingwest.com/" target="_blank" class="list-group-item" >品玩PingWest</a>
+					</ul>
+				</div>
+				
+				<!--开发服务-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="很多第三方创业公司提供的开发服务，大大简化了开发工作">开发服务</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal8">更多</a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						<a href="http://www.umeng.com/" target="_blank" class="list-group-item" >友盟SDK</a>
+						<a href="http://www.devstore.cn/" target="_blank" class="list-group-item" >DevStore</a>
+						<a href="http://www.mob.com/#/index" target="_blank" class="list-group-item" >ShareSDK</a>
+					</ul>
+				</div>
+				
+				<!--其它-->
+				<div class="col-sm-4">
+					<ul class="list-group">
+						<div class="list-group-item active">
+							<p class="list-group-item-text pull-left" style="color:white"
+								data-toggle="tooltip" data-placement="top" title="更多功能敬请期待哦">其它</p>
+							<a href="#" class="list-group-item-text pull-right"  data-toggle="modal" 
+								data-target="#modal9"></a>
+							<div style="clear: both;"></div>
+						</div>
+						
+						<a href="#" class="list-group-item" >敬请期待</a>
+						<a href="#" class="list-group-item" >敬请期待</a>
+						<a href="#" class="list-group-item" >敬请期待</a>
+					</ul>
+				</div>
+				 
+			</div>
+ 
+			 
+		</div>
+		<!-- /container -->
+		<!-- footer -->
+		<div style="background-color: #222222; padding: 10px; color: white; text-align: center;">
+				<p >2015 -- Made by Devis Lee. </p>
+				<div style="display: none;">
+					<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1256153205'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1256153205%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+				</div>
+		</div>
+		
+		<!-- /footer -->
+		<!-- Bootstrap core JavaScript ================================================== -->
+		<!-- Placed at the end of the document so the pages load faster -->
+		<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+		<script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<script src="../../assets/js/docs.min.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="/js/forkme-1.0.js"></script>
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+		
+		<!-- Modal0 关于 -->
+		<div class="modal fade" id="modal0" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">关于AndroidCat</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<h4>感谢您的关注，我会陆续更新更多的Android开发资源链接，并且会继续添加新功能。</h4>
+                  <h5>如果有任何意见或者建议，请在下方评论留言，或者联系我：email: fjytlibin@qq.com 谢谢！</h5>
+		      	<!-- 多说评论框 start -->
+					<div class="ds-thread" data-thread-key="about" data-title="关于AndroidCat" data-url="http://8.androidcat.sinaapp.com/"></div>
+				<!-- 多说评论框 end -->
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+		
+		<!-- Modal1 资源文档 -->
+		<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">资源文档</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://www.androiddevtools.cn/" target="_blank" class="list-group-item" >AndroidDevTools</a>
+							<a href="http://developer.android.com/intl/zh-cn/develop/index.html" target="_blank" class="list-group-item" >Android官方文档</a>
+							<a href="http://www.cnblogs.com/over140/category/277077.html" target="_blank" class="list-group-item" >AndroidAPI中文翻译</a>
+							<a href="http://android-developers.blogspot.com/" target="_blank" class="list-group-item" >Android Developers Blog</a>
+							<a href="http://hukai.me/android-training-course-in-chinese/ " target="_blank" class="list-group-item" >Android官方培训课程中文版</a>
+                            <a href="http://guides.codepath.com/android" target="_blank" class="list-group-item" >CodePath Android Cliffnotes</a>
+                            <a href="http://www.careercup.com/" target="_blank" class="list-group-item" >Careercup面试题大全</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	    <!-- Modal2 技术社区 -->
+		<div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">技术社区</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://www.eoeandroid.com/" target="_blank" class="list-group-item" >eoe Android社区</a>
+							<a href="http://www.apkbus.com/" target="_blank" class="list-group-item" >APKBUS安卓巴士</a>
+							<a href="http://www.oschina.net/android/" target="_blank" class="list-group-item" >开源中国社区</a>
+                            <a href="http://www.chinagdg.com/forum-36-1.html" target="_blank" class="list-group-item" >中国谷歌开发者社区</a>
+							<a href="http://stackoverflow.com/" target="_blank" class="list-group-item" >stackoverflow</a>
+							<a href="http://www.csdn.net/" target="_blank" class="list-group-item" >CSDN</a>
+							<a href="http://www.juapk.com/" target="_blank" class="list-group-item" >安卓开发者社区</a>
+							<a href="http://www.v2ex.com/go/android" target="_blank" class="list-group-item" >V2EX：安卓</a>
+							<a href="http://bbs.51cto.com/forum-291-1.html" target="_blank" class="list-group-item" >51CTO技术论坛:安卓</a>
+                            <a href="http://gank.io/" target="_blank" class="list-group-item" >干货集中营</a>
+                            <a href="http://gold.xitu.io/#/entries/browse/android" target="_blank" class="list-group-item" >掘金</a>
+                            <a href="http://segmentfault.com/" target="_blank" class="list-group-item" >SegmentFault</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	   <!-- Modal3 技术教程 -->
+		<div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">技术教程</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://codekk.com/open-source-project-analysis" target="_blank" class="list-group-item" >codeKK</a>
+							<a href="http://www.devtf.cn/?cat=2" target="_blank" class="list-group-item" >开发技术前线</a>
+                            <a href="http://tech.meituan.com/" target="_blank" class="list-group-item" >美团技术团队</a>
+                            <a href="http://csrd.aliapp.com/" target="_blank" class="list-group-item" >阿里核心系统团队博客</a>
+                            <a href="https://code.facebook.com/" target="_blank" class="list-group-item" >Facebook技术</a>
+                            <a href="http://www.open-open.com/lib/list/177" target="_blank" class="list-group-item" >OPEN开发经验库</a>
+                            <a href="http://www.androidweekly.cn/" target="_blank" class="list-group-item" >AndroidWeekly</a>
+                            <a href="http://geek.csdn.net/news/detail/38125" target="_blank" class="list-group-item" >移动APP整体策划</a>
+                            <a href="http://www.jikexueyuan.com/course/android/" target="_blank" class="list-group-item" >极客学院(视频)</a>
+							<a href="http://www.imooc.com/course/list?c=android" target="_blank" class="list-group-item" >慕课网(视频)</a>
+							<a href="http://www.maiziedu.com/course/android/" target="_blank" class="list-group-item" >麦子学院(视频)</a>
+                            <a href="http://android-study.com/" target="_blank" class="list-group-item" >Android学习网</a>
+                            <a href="http://www.w2bc.com/" target="_blank" class="list-group-item" >爱编程</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	    <!-- Modal4 开源代码 -->
+		<div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">开源代码</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://www.23code.com/" target="_blank" class="list-group-item" >23CODE</a>
+							<a href="http://www.jcodecraeer.com/" target="_blank" class="list-group-item" >泡在网上的日子</a>
+							<a href="http://blog.csdn.net/shulianghan/article/details/18046021" target="_blank" class="list-group-item" >GitHub优秀开源项目</a>
+							<a href="http://blog.daimajia.com/android-library-collection/" target="_blank" class="list-group-item" >代码家</a>
+							<a href="http://a.code4app.com/category" target="_blank" class="list-group-item" >Code4App:Android</a>
+                            <a href="http://square.github.io/#android" target="_blank" class="list-group-item" >Square Open Source</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	   <!-- Modal5 大神博客 -->
+		<div class="modal fade" id="modal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">大神博客</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://www.trinea.cn/" target="_blank" class="list-group-item" >Trinea</a>
+							<a href="http://blog.csdn.net/lmj623565791" target="_blank" class="list-group-item" >张鸿洋</a>
+							<a href="http://blog.csdn.net/singwhatiwanna/" target="_blank" class="list-group-item" >任玉刚</a>
+							<a href="http://blog.csdn.net/guolin_blog/" target="_blank" class="list-group-item" >郭霖</a>
+							<a href="http://blog.csdn.net/xiaanming/" target="_blank" class="list-group-item" >夏安明</a>
+							<a href="http://blog.csdn.net/aigestudio/" target="_blank" class="list-group-item" >爱哥</a>
+							<a href="http://blog.csdn.net/lilu_leo/" target="_blank" class="list-group-item" >傲慢的上校</a>
+							<a href="http://hukai.me/" target="_blank" class="list-group-item" >胡凯</a>
+							<a href="http://www.cnblogs.com/qianxudetianxia/" target="_blank" class="list-group-item" >谦虚的天下</a>
+							<a href="http://blog.csdn.net/ns_code" target="_blank" class="list-group-item" >兰亭风雨</a>
+							<a href="http://blog.csdn.net/bboyfeiyu" target="_blank" class="list-group-item" >Mr.Simple</a>
+							<a href="http://blog.csdn.net/luoshengyang/" target="_blank" class="list-group-item" >罗升阳</a>
+							<a href="http://www.cnblogs.com/innost/" target="_blank" class="list-group-item" >邓凡平</a>
+							<a href="http://www.race604.com/" target="_blank" class="list-group-item" >Race604</a>
+							<a href="http://stormzhang.com/" target="_blank" class="list-group-item" >stormzhang</a>
+						</ul>
+					</div> 
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+
+	   <!-- Modal6 开发框架 -->
+		<div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">开发框架</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="https://github.com/wyouflf/xUtils" target="_blank" class="list-group-item" >xUtils（快速）</a>
+							<a href="https://github.com/yangfuhai/afinal" target="_blank" class="list-group-item" >Afinal（快速）</a>
+                            <a href="http://www.apkplug.com/" target="_blank" class="list-group-item" >Apkplug（模块化）</a>
+                            <a href="https://github.com/white-cat/ThinkAndroid" target="_blank" class="list-group-item" >ThinkAndroid（快速）</a>
+                            <a href="http://git.oschina.net/kymjs/KJFrameForAndroid" target="_blank" class="list-group-item" >KJFrameForAndroid（快速）</a>
+                            <a href="http://cordova.apache.org/" target="_blank" class="list-group-item" >Cordova（跨平台）</a>
+                            <a href="http://www.dcloud.io/" target="_blank" class="list-group-item" >HBuilder（跨平台）</a>
+                            <a href="http://www.appcan.cn/" target="_blank" class="list-group-item" >AppCan（跨平台）</a>
+                            <a href="http://www.apicloud.com/" target="_blank" class="list-group-item" >APICloud（模块化跨平台）</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	    <!-- Modal7 技术资讯 -->
+		<div class="modal fade" id="modal7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">技术资讯</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://www.cyzone.cn/" target="_blank" class="list-group-item" >创业邦</a>
+							<a href="http://36kr.com/" target="_blank" class="list-group-item" >36氪</a>
+							<a href="http://www.pingwest.com/" target="_blank" class="list-group-item" >品玩PingWest</a>
+							<a href="http://www.csdn.net/tag/android/news" target="_blank" class="list-group-item" >CSDN Android资讯</a>
+							<a href="http://www.geekfan.net/category/android-2/" target="_blank" class="list-group-item" >极客范</a>
+							<a href="http://cn.technode.com/" target="_blank" class="list-group-item" >动点科技</a>
+							<a href="http://www.yyyweb.com/mobile" target="_blank" class="list-group-item" >前端里</a>
+							<a href="http://forum.memect.com/" target="_blank" class="list-group-item" >好东西论坛</a>
+                            <a href="http://www.demo8.com/" target="_blank" class="list-group-item" >DEMO8</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	    <!-- Modal8 开发服务 -->
+		<div class="modal fade" id="modal8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+		        <h4 class="modal-title" id="myModalLabel">开发服务</h4>
+		      </div>
+		      <div class="modal-body">
+		      	<div class="row">
+			        <div class="col-sm-12">
+						<ul class="list-group">
+							<a href="http://www.umeng.com/" target="_blank" class="list-group-item" >友盟SDK</a>
+							<a href="http://www.devstore.cn/" target="_blank" class="list-group-item" >DevStore</a>
+							<a href="http://www.mob.com/#/index" target="_blank" class="list-group-item" >ShareSDK</a>
+							<a href="https://leancloud.cn/" target="_blank" class="list-group-item" >LeanCloud云服务</a>
+							<a href="http://www.bmob.cn/" target="_blank" class="list-group-item" >Bmob后端云服务</a>
+							<a href="https://www.wilddog.com/" target="_blank" class="list-group-item" >Wilddog野狗</a>
+							<a href="http://www.rongcloud.cn/" target="_blank" class="list-group-item" >融云即时通讯云</a>
+							<a href="http://www.easemob.com/" target="_blank" class="list-group-item" >环信即时通讯云</a>
+							<a href="http://www.xfyun.cn/" target="_blank" class="list-group-item" >讯飞开放平台</a>
+							<a href="http://www.faceplusplus.com.cn/" target="_blank" class="list-group-item" >FACE++人脸识别云</a>
+							<a href="http://www.qiniu.com/" target="_blank" class="list-group-item" >七牛云存储</a>
+							<a href="https://pingxx.com/" target="_blank" class="list-group-item" >PING++支付SDK</a>
+							<a href="http://tusdk.com/" target="_blank" class="list-group-item" >涂图SDK-移动图像处理开发套件</a>
+							<a href="http://www.stickersdk.com/" target="_blank" class="list-group-item" >表情大全开发者平台</a>
+							<a href="http://www.gotye.com.cn/" target="_blank" class="list-group-item" >亲加通讯云</a>
+                            <a href="http://www.yuntongxun.com/" target="_blank" class="list-group-item" >容联云通讯</a>
+						</ul>
+					</div>
+				</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+		      </div>
+		    	</div>
+		 </div>
+	   </div>
+	   
+	   <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+		<script type="text/javascript">
+		var duoshuoQuery = {short_name:"androidcat"};
+			(function() {
+				var ds = document.createElement('script');
+				ds.type = 'text/javascript';ds.async = true;
+				ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+				ds.charset = 'UTF-8';
+				(document.getElementsByTagName('head')[0] 
+				 || document.getElementsByTagName('body')[0]).appendChild(ds);
+			})();
+			</script>
+		<!-- 多说公共JS代码 end -->
+	</body>
+
+</html>
