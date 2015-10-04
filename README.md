@@ -13,7 +13,9 @@
 8. [开发服务](https://github.com/ColorfulCat/AndroidGuide#8-开发服务)
 
 ---
+
 ### 1. 资源文档
+
 - [AndroidDevTools](http://www.androiddevtools.cn/) 
 - [Android官方文档](http://developer.android.com/intl/zh-cn/develop/index.html)
 - [AndroidAPI中文翻译](http://www.cnblogs.com/over140/category/277077.html)
@@ -29,7 +31,9 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 2. 技术社区
+
 - [eoe Android社区](http://www.eoeandroid.com/)
 - [APKBUS安卓巴士](http://www.apkbus.com/)
 - [开源中国社区](http://www.oschina.net/android/)
@@ -46,7 +50,9 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 3. 技术教程
+
 - [codeKK](http://codekk.com/open-source-project-analysis)
 - [开发技术前线](http://www.devtf.cn/?cat=2)
 - [美团技术团队](http://tech.meituan.com/)
@@ -68,6 +74,7 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 4. 开源代码
 
 - [23Code](http://www.23code.com/)
@@ -90,7 +97,9 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 5. 大神博客
+
 - [android-dev-cn国内博主](https://github.com/android-cn/android-dev-cn)
 - [android-dev-com国外博主](https://github.com/android-cn/android-dev-com)
 - [Trinea](http://www.trinea.cn/)
@@ -121,7 +130,9 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 6. 开发框架
+
 - [xUtils（快速）](https://github.com/wyouflf/xUtils)
 - [Afinal（快速）](https://github.com/yangfuhai/afinal)
 - [Apkplug（模块化）](http://www.apkplug.com/)
@@ -149,7 +160,9 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 7. 技术资讯
+
 - [创业邦](http://www.cyzone.cn/)
 - [36氪](http://36kr.com/)
 - [品玩PingWest](http://www.pingwest.com/)
@@ -163,7 +176,9 @@
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
 ---
+
 ### 8. 开发服务
+
 - [友盟SDK](http://www.umeng.com/)
 - [DevStore开发商店](http://www.devstore.cn/)
 - [ShareSDK](http://www.mob.com/#/index)
