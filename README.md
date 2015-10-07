@@ -27,6 +27,7 @@
 - [eoe WIKI百科](http://wiki.eoeandroid.com/)
 - [Android Design设计指南中文版](http://adchs.github.io)
 - [Material Design 中文版](http://design.1sters.com)
+- [Android中文API](http://www.android-doc.com/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -46,6 +47,7 @@
 - [干货集中营](http://gank.io/)
 - [掘金](http://gold.xitu.io/#/tag/Android)
 - [SegmentFault](http://segmentfault.com/)
+- [A梦软件](http://www.amsoft.cn/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -93,6 +95,7 @@
 - [Android Libraries and Resources](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
 - [awesome-android](https://github.com/snowdream/awesome-android)
+- [阳和移动开发](http://www.mobile-open.com/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -126,6 +129,7 @@
 - [zmywly8866](http://zmywly8866.github.io)
 - [bongizmo](http://www.bongizmo.com/blog/)
 - [Cyril Mottier](http://cyrilmottier.com)
+- [悠城札记](http://www.linfuyan.com/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -172,6 +176,9 @@
 - [前端里](http://www.yyyweb.com/mobile)
 - [好东西论坛](http://forum.memect.com/)
 - [DEMO8](http://www.demo8.com/)
+- [猎云网](http://www.lieyunwang.com/)
+- [ifanr爱范儿](http://www.ifanr.com/)
+- [爱搞机](http://www.igao7.com/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
