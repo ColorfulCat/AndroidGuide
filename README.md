@@ -48,6 +48,7 @@
 - [掘金](http://gold.xitu.io/#/tag/Android)
 - [SegmentFault](http://segmentfault.com/)
 - [A梦软件](http://www.amsoft.cn/)
+- [天码营](http://tianmaying.com/topics)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -72,6 +73,10 @@
 - [Mars的Android开发视频教程](http://mars.apkbus.com/)
 - [老罗的Android开发视频教程](http://luo.apkbus.com/)
 - [如何自学Android编程-知乎](http://www.zhihu.com/question/26417244)
+- [Android知识](http://www.jianshu.com/collection/3fde3b545a35)
+- [MobDevGroup](http://www.mobdevgroup.com/)
+- [LeanCloud Blog](https://blog.leancloud.cn/3612/)
+- [android100](http://www.android100.org/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -179,6 +184,7 @@
 - [猎云网](http://www.lieyunwang.com/)
 - [ifanr爱范儿](http://www.ifanr.com/)
 - [爱搞机](http://www.igao7.com/)
+- [推酷](http://www.tuicool.com/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
