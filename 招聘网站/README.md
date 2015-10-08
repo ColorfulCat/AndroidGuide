@@ -19,6 +19,7 @@
 - [脉脉](http://maimai.cn/)
 - [乔布简历](http://cv.qiaobutang.com/)
 - [Android全国职位列表](https://github.com/android-cn/android-jobs)
+- [stackoverflow](http://careers.stackoverflow.com/)
 - [MyHiringClub](http://www.myhiringclub.com/)
 
 
