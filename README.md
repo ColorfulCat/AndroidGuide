@@ -49,6 +49,8 @@
 - [SegmentFault](http://segmentfault.com/)
 - [A梦软件](http://www.amsoft.cn/)
 - [天码营](http://tianmaying.com/topics)
+- [开发者头条](http://toutiao.io/)
+- [极客头条](http://geek.csdn.net/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -185,6 +187,7 @@
 - [ifanr爱范儿](http://www.ifanr.com/)
 - [爱搞机](http://www.igao7.com/)
 - [推酷](http://www.tuicool.com/)
+
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
