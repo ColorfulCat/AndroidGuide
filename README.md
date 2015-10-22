@@ -51,6 +51,8 @@
 - [天码营](http://tianmaying.com/topics)
 - [开发者头条](http://toutiao.io/)
 - [极客头条](http://geek.csdn.net/)
+- [酷粒](http://coollist.cn/)
+- [码农网](http://www.codeceo.com/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -187,6 +189,7 @@
 - [ifanr爱范儿](http://www.ifanr.com/)
 - [爱搞机](http://www.igao7.com/)
 - [推酷](http://www.tuicool.com/)
+- [mind](http://mindstore.io/)
 
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
@@ -200,6 +203,7 @@
 - [ShareSDK](http://www.mob.com/#/index)
 - [LeanCloud云服务](https://leancloud.cn/)
 - [Bmob后端云服务](http://www.bmob.cn/)
+- [阿里悟空](https://imwukong.com/)
 - [Wilddog野狗](https://www.wilddog.com/)
 - [融云即时通讯云](http://www.rongcloud.cn/)
 - [环信即时通讯云](http://www.easemob.com/)
