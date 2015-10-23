@@ -23,7 +23,6 @@
 - [Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/)
 - [CodePath Android Cliffnotes](http://guides.codepath.com/android)
 - [codota](http://www.codota.com/)
-- [Careercup面试题大全](http://www.careercup.com/)
 - [eoe WIKI百科](http://wiki.eoeandroid.com/)
 - [Android Design设计指南中文版](http://adchs.github.io)
 - [Material Design 中文版](http://design.1sters.com)
@@ -51,6 +50,7 @@
 - [天码营](http://tianmaying.com/topics)
 - [开发者头条](http://toutiao.io/)
 - [极客头条](http://geek.csdn.net/)
+- [酷粒](http://coollist.cn/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -167,6 +167,7 @@
 - [greenDao（数据库）](http://greendao-orm.com/)
 - [Lite Orm（数据库）](https://github.com/litesuits/android-lite-orm)
 - [ActiveAndroid（数据库）](https://github.com/pardom/ActiveAndroid)
+- [SnappyDB（数据库）](https://github.com/nhachicha/SnappyDB)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
@@ -212,7 +213,7 @@
 - [亲加通讯云](http://www.gotye.com.cn/)
 - [容联云通讯](http://www.yuntongxun.com/)
 - [爱开发](http://www.akaifa.com/)
-- [爱加密](http://www.ijiami.cn/ )
+- [爱加密](http://www.ijiami.cn/)
 - [极光推送](https://www.jpush.cn/)
 - [小米消息推送](http://dev.xiaomi.com/doc/?page_id=1670)
 - [友盟推送](http://www.umeng.com/push)
