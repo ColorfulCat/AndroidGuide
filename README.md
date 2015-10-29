@@ -84,6 +84,7 @@
 - [LeanCloud Blog](https://blog.leancloud.cn/3612/)
 - [android100](http://www.android100.org/)
 - [Android开发网](http://www.jizhuomi.com/android/)
+- [AndroidWeekly.net](http://androidweekly.net/)
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
 
