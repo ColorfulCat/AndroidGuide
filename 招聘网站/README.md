@@ -7,7 +7,6 @@
 - [拉勾网](http://www.lagou.com/)
 - [BOSS直聘](http://www.bosszhipin.com/home/)
 - [哪上班](https://www.nashangban.com/)
-- [JobDeer](http://www.jobdeer.com/)
 - [100Offer](http://www.100offer.com/)
 - [猎聘网](http://www.liepin.com/)
 - [大街网](http://www.dajie.com/)
@@ -21,6 +20,8 @@
 - [Android全国职位列表](https://github.com/android-cn/android-jobs)
 - [stackoverflow](http://careers.stackoverflow.com/)
 - [MyHiringClub](http://www.myhiringclub.com/)
+- [牵牛招聘](http://www.1000new.com/)
+- [HiStarter](http://www.histarter.com/p/jobs/job_main)
 
 
 

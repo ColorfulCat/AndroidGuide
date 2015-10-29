@@ -165,6 +165,7 @@
 - [DroidPlugin（插件化）](https://github.com/Qihoo360/DroidPlugin)
 - [Universal-Image-Loader（图片）](https://github.com/nostra13/Android-Universal-Image-Loader)
 - [Fresco（图片）](http://www.fresco-cn.org/)
+- [Glide（图片）](https://github.com/bumptech/glide)
 - [okhttp（网络请求）](http://square.github.io/okhttp/)
 - [Volley（网络请求）](http://blog.csdn.net/guolin_blog/article/details/17482095)
 - [Netroid（网络请求）](http://www.open-open.com/lib/view/open1402825446810.html)
@@ -194,6 +195,7 @@
 - [爱搞机](http://www.igao7.com/)
 - [推酷](http://www.tuicool.com/)
 - [mind](http://mindstore.io/)
+- [少数派](http://sspai.com/tag/android )
 
 
 =========[返回顶部](https://github.com/ColorfulCat/AndroidGuide#androidcat)=========
