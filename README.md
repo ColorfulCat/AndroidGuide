@@ -1,5 +1,5 @@
  
-##[AndroidCat安卓书签网v2.0 新版上线：http://androidcat.com/](http://androidcat.com?from=github)
+##[AndroidCat安卓书签网v3.0 新版上线：http://androidcat.com/](http://androidcat.com?from=github)
 
 ##### Android开发相关的网址导航 (*排名顺序不分先后*)
 
@@ -36,6 +36,8 @@
 
 ### 2. 技术社区
 
+- [掘金](http://gold.xitu.io/#/tag/Android)
+- [干货集中营](http://gank.io/)
 - [eoe Android社区](http://www.eoeandroid.com/)
 - [APKBUS安卓巴士](http://www.apkbus.com/)
 - [开源中国社区](http://www.oschina.net/android/)
@@ -45,8 +47,6 @@
 - [安卓开发者社区](http://www.juapk.com/)
 - [V2EX](http://www.v2ex.com/go/android)
 - [51CTO技术论坛](http://bbs.51cto.com/forum-291-1.html)
-- [干货集中营](http://gank.io/)
-- [掘金](http://gold.xitu.io/#/tag/Android)
 - [SegmentFault](http://segmentfault.com/)
 - [A梦软件](http://www.amsoft.cn/)
 - [天码营](http://tianmaying.com/topics)
@@ -122,6 +122,7 @@
 - [张鸿洋](http://blog.csdn.net/lmj623565791)
 - [任玉刚](http://blog.csdn.net/singwhatiwanna/)
 - [郭霖](http://blog.csdn.net/guolin_blog/)
+- [代码家](http://daimajia.com/)
 - [夏安明](http://blog.csdn.net/xiaanming/)
 - [爱哥](http://blog.csdn.net/aigestudio/)
 - [傲慢的上校](http://blog.csdn.net/lilu_leo/)
